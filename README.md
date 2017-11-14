@@ -1,5 +1,4 @@
 # A Powerline style prompt for your shell
-
 A [Powerline](https://github.com/Lokaltog/vim-powerline) like prompt for Bash,
 ZSH, Fish, and tcsh:
 
